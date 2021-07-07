@@ -43,7 +43,7 @@
     "@types/ws": "7.4.4",
     "dot-json": "^1.2.0",
     "husky": "^4.2.3",
-    "json-schema-to-typescript": "^8.1.0",
+    "json-schema-to-typescript": "^10.1.4",
     "lnfs-cli": "^2.1.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^1.19.1",
