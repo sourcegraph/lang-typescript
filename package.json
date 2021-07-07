@@ -42,7 +42,7 @@
     "@types/uuid": "7.0.0",
     "@types/ws": "7.4.4",
     "dot-json": "^1.2.0",
-    "husky": "^4.2.3",
+    "husky": "^4.3.8",
     "json-schema-to-typescript": "^8.1.0",
     "lnfs-cli": "^2.1.0",
     "parcel-bundler": "^1.12.4",
