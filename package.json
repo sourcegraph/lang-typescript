@@ -45,7 +45,7 @@
     "husky": "^4.2.3",
     "json-schema-to-typescript": "^8.1.0",
     "lnfs-cli": "^2.1.0",
-    "parcel-bundler": "^1.12.4",
+    "parcel-bundler": "^1.12.5",
     "prettier": "^1.19.1",
     "tslint": "^6.1.3",
     "yarn-deduplicate": "^2.0.0"
