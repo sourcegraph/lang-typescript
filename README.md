@@ -12,7 +12,7 @@ Monitoring is available through OpenTracing (Jaeger) and Prometheus.
 
 ## How it works
 
-Check out [@felixfbecker](https://github.com/felixfecker)'s talk at FOSDEM for an overview & deep dive of the architecture:
+Check out [@felixfbecker](https://github.com/felixfbecker)'s talk at FOSDEM for an overview & deep dive of the architecture:
 
 <p>
   <a href="https://vimeo.com/327174558" title="Talk Recording: Advanced TypeScript Tooling at Scale">
