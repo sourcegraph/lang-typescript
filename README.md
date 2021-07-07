@@ -114,7 +114,7 @@ To enable the use of Websocket with SSL pass the key/certificate pair as environ
 docker run -p 8080:8080 -e TLS_KEY="$(cat sourcegraph.example.com.key)" -e TLS_CERT="$(cat sourcegraph.example.com.crt)" sourcegraph/lang-typescript
 ```
 
-To reuse the self-signed certificate created by following the steps [here](https://docs.sourcegraph.com/admin/nginx#tls-https) add these parameters to the run command above:
+To reuse the self-signed certificate created by following the steps [here](https://docs.sourcegraph.com/admin/nginx#if-you-need-an-ssl-certificate) add these parameters to the run command above:
 
 ```
 -e NODE_EXTRA_CA_CERTS=/home/node/sourcegraph.example.com.crt -v ~/.sourcegraph/config:/home/node
