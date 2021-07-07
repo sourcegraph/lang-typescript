@@ -41,7 +41,7 @@
     "@types/type-is": "1.6.3",
     "@types/uuid": "7.0.0",
     "@types/ws": "7.4.4",
-    "dot-json": "^1.2.0",
+    "dot-json": "^1.2.2",
     "husky": "^4.2.3",
     "json-schema-to-typescript": "^8.1.0",
     "lnfs-cli": "^2.1.0",
