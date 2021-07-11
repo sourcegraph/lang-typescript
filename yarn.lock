@@ -4080,13 +4080,13 @@ isstream@~0.1.2:
   resolved "https://registry.npmjs.org/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
-ix@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.npmjs.org/ix/-/ix-3.0.2.tgz#4a77bd78da6052233a6dc57b2aa91ef17bff7081"
-  integrity sha512-Vt2zmkRcxo5Rddpqz8IvhRUqojEzmCayHYLIBve5Ddkw7+FqHfWf6zjnE2CEOVb19gGx2hG8R76uVgJhqGdYUw==
+ix@^4.4.1:
+  version "4.4.1"
+  resolved "https://registry.npmjs.org/ix/-/ix-4.4.1.tgz#8ec5f4f420c504a9906ffc2e2234f50147b9488a"
+  integrity sha512-Jsl7cUf7CA1MkznzAuVy4K6V1Zsfx+EAh0ZgiGhGAADaEGKiMV+sJx8Qe4hx0CsyI475Yt3ppoRS8M8oOueqlA==
   dependencies:
     "@types/node" "^13.7.4"
-    tslib "^1.9.3"
+    tslib "^2.3.0"
 
 jaeger-client@^3.17.2:
   version "3.17.2"
@@ -7020,10 +7020,15 @@ trim-newlines@^1.0.0:
   resolved "https://registry.npmjs.org/trim-newlines/-/trim-newlines-1.0.0.tgz#5887966bb582a4503a41eb524f7d35011815a613"
   integrity sha1-WIeWa7WCpFA6QetST301ARgVphM=
 
-tslib@^1.13.0, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
+tslib@^1.13.0, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.13.0"
   resolved "https://registry.npmjs.org/tslib/-/tslib-1.13.0.tgz#c881e13cc7015894ed914862d276436fa9a47043"
   integrity sha512-i/6DQjL8Xf3be4K/E6Wgpekn5Qasl1usyw++dAA35Ue5orEn65VIxOA+YvNNl9HV3qv70T7CNwjODHZrLwvd1Q==
+
+tslib@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.npmjs.org/tslib/-/tslib-2.3.0.tgz#803b8cdab3e12ba581a4ca41c8839bbb0dacb09e"
+  integrity sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg==
 
 tslint-config-prettier@^1.18.0:
   version "1.18.0"
